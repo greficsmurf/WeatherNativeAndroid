@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebClient</string>
+    <string name="tab_text_1">Список городов</string>
+    <string name="tab_text_2">Поиск</string>
+    <string name="api_key">b8dec54a4301f7a6ab7acb3f4ef311f0</string>
+    <string name="googlemaps_key">AIzaSyBHX5lccYpzbv6ZASoIgJ91WSPFcXrH27M</string>
+    <string name="requestByName">https://api.openweathermap.org/data/2.5/weather?q={cityName}&amp;appid={appid}&amp;units=metric</string>
+    <string name="degrees">&#160;по цельсию</string>
+    <string name="speed">&#160;м\с</string>
+    <string name="direction">&#160;градусов</string>
+    <string name="AddCity">Добавить</string>
+</resources>
